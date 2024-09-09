@@ -1,0 +1,5 @@
+ID,Nome,DtAniversario,Telefone,email,createdAt,createdBy,modifiedAt,modifiedBy,curso_ID,status,critico
+20567922-7d57-4e76-b16c-e53fd97dcb12,Felipe Oliveira,1997-11-21,15 981715101,felipe.o.l.i@hotmail.com,2024-08-13,Admin,,,20567922-7d57-4e76-b16c-e53fd97dcb13,A,1
+20567922-7d57-4e76-b16c-e53fd97dcb14,Valeria Silva,1997-11-21,15 981715101,valeria@hotmail.com,2024-08-13,Admin,,,20567922-7d57-4e76-b16c-e53fd97dcb15,I,2
+20567922-7d57-4e76-b16c-e53fd97dcb17,Marcos Oliver,1997-11-21,15 981715101,marcos@hotmail.com,2024-08-13,Admin,,,20567922-7d57-4e76-b16c-e53fd97dcb18,P,3
+20567922-7d57-4e76-b16c-e53fd97dcb18,Olivia Domingues,1997-11-21,15 981715101,Dolivia@hotmail.com,2024-08-13,Admin,,,20567922-7d57-4e76-b16c-e53fd97dcb13,A,1
